@@ -55,8 +55,8 @@ export const defaultProjects: Project[] = [
     tags: ["Automation", "Tomcat", "Network", "Windows", "Printer", "Post-Install"],
     url: "#",
     download: "https://drive.google.com/uc?
-     export=download&id=15pdOL6CWzIAdwhVsjrmXGpGYv9iwu
-     yYK",
+        export=download&id=15pdOL6CWzIAdwhVsjrmXGpGYv9
+        iwuyYK",
     media: [],
   },
   {
