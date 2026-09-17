@@ -54,7 +54,7 @@ export const defaultProjects: Project[] = [
     lang: "Batch / PowerShell",
     tags: ["Automation", "Tomcat", "Network", "Windows", "Printer", "Post-Install"],
     url: "#",
-    download: "https://drive.usercontent.google.com/download?id=15pdOL6CWzIAdwhVsjrmXGpGYv9iwuyYK&export=download&confirm=t",
+    download: "https://drive.usercontent.google.com/download?id=1pW6liKoD4qOkVotdoE9QGFIz1LXp5OYz&export=download&authuser=4",
     media: [],
   },
   {
